@@ -8,6 +8,7 @@ A python project for my Scientific Computing module at university, produces frac
   * Fractal Dimension
   * Radial Density Function
 - 3D Fractal
-  * Fractal Dimension
+  * Fractal Dimension (Incorrect)
 - Border Growth (2D)
-- WIP Fractal Growth Animation
+- Fractal Growth Animation
+- Different Seeds
